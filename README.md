@@ -63,9 +63,10 @@ Transparency will be put into a process that has been hidden from public.
 
 # Structure
 
-DAOPAC is not aligned with a particular political party or agenda. Instead, it is focused on a slate of issues that is defined at regular intervals by its structure. 
+DAOPAC is not aligned with a particular political party or agenda. Instead, it is focused on a slate of issues that is defined at regular intervals by its structure:
 
-
+![DAOPAC Structure](https://github.com/DAOPAC/White-Paper/blob/main/structure.png?raw=true)
+[Link to Whimsical](https://whimsical.com/daopac-funding-BkYVrQQGmVRaVi5HwCYvtj)
 
 ## Directors
 
