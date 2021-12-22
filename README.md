@@ -246,7 +246,7 @@ Clever growth techniques will emerge as DAOPAC grows and brings more great peopl
 - NFTs can be automatically gifted to Donors who create successful Campaigns
 - NFTs can be gifted to all DAOPAC Donors, similar to the "I VOTED" stickers on Election Day
 
-# Roadmap
+# Roadmap (WIP)
 
 ## Stage 0: Governance Formation
 
