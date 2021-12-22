@@ -1,17 +1,14 @@
 # DAOPAC
 
-<aside>
 💡 Join the Discord: 📜 [https://discord.gg/7GCAqkDa](https://discord.gg/7GCAqkDa) 📜
 
-</aside>
-
-<aside>
 💡 Help is needed!
-- 👩🏼‍💻 Rust developers for Solana blockchain dev 
+-  👩🏼‍💻 Rust developers for Solana blockchain dev 
 - 🤓 Policy wonks for campaign ideas and solicitation
 - 💰 Donors to set DAOPAC up with resources
 
-</aside>
+<hr/>
+<br>
 
 > To all the worrywarts out there who said super PACs were going to lead to a cabal of billionaires secretly buying democracy: wrong! They are publicly buying democracy. 
 — Stephen Colbert
@@ -68,7 +65,7 @@ Transparency will be put into a process that has been hidden from public.
 
 DAOPAC is not aligned with a particular political party or agenda. Instead, it is focused on a slate of issues that is defined at regular intervals by its structure. 
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/BkYVrQQGmVRaVi5HwCYvtj"></iframe>
+
 
 ## Directors
 
