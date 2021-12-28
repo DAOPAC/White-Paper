@@ -1,6 +1,6 @@
 # DAOPAC
 
-💡 Join the Discord: 📜 [https://discord.gg/7GCAqkDa](https://discord.gg/7GCAqkDa) 📜
+💡 Join the Discord: 📜 [https://discord.gg/VvtJfTZrr7](https://discord.gg/VvtJfTZrr7) 📜
 
 💡 Help is needed!
 -  👩🏼‍💻 Rust developers for Solana blockchain dev 
