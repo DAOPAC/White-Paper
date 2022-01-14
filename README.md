@@ -244,16 +244,58 @@ Clever growth techniques will emerge as DAOPAC grows and brings more great peopl
 - NFTs can be automatically gifted to Donors who create successful Campaigns
 - NFTs can be gifted to all DAOPAC Donors, similar to the "I VOTED" stickers on Election Day
 
-# Roadmap (WIP)
+# Roadmap
+The following is a rough guide for how DAOPAC will unfold in 2022.
 
-## Stage 0: Governance Formation
+## Stage 0: Governance Formation (Nov '21 - Jan '22)
 
-## Stage 1: Treasury Formation
+### Spec
+This is the thinking part. There's a lot to consider when dealing with political entities, crypto markets, and donors. In order to move fast, we need prevent mistakes. This document is the result of that thinking. 
 
-## Stage 2: Operationalization
+Getting a spec (or white paper or litepaper) developed and vetted past discerning people is an important step in the journey. So far, so good. The spec will continue to live and morph as we figure more stuff out. The team will need to keep this document updated as much as possible or, better yet, convert it into a Gitbook documentation system.
 
+The technical spec has involved making several critical decisions. Among them are:
+
+- Which blockchain will we use?
+- Should we build our own DAO from scratch or use an existing library?
+- What frontend framework should we use?
+- Where will all of this be hosted?
+
+These questions are mostly answered now. We'll build on Solana. We'll use the native [governance platform](https://realms.today/realms). Since most of the examples and packages are built for React, we'll use that frontend framework. Hosting can be anywhere, but Heroku or Vercel seem best. 
+
+The tech spec will also evolve over time.
+### Discord
+The Discord is the gathering spot for information, ideas, and chatter about this project. It is alive and the link is at the top of the spec. Over time we'll add and archive channels and continue to invite more members. 
+
+## Stage 1: Treasury Formation (Jan '22)
+To use the Solana governance platform, we will need both a regular token and a council token. 
+
+The keys for these tokens should be held in a multisig wallet. This way control over minting, burning, and freezing accounts isn't held be a single person. 
+
+The token tickers and program IDs are shown here. 
+
+### Token Mint
+> CHIT: `Chitd6BnY9A1E46PkaH3q9q4u78AKMjiLVD85tWpz6sy`
+### Council Mint
+>DAOPAC: `DAoPaCBCFdCBM4NQ3c61h9HQwKqYi9V1VJQrPqaw1Hk6`
+
+## Stage 2: Operationalization (Jan '22 - )
+Here is an outline of what we can expect to accomplish throughout 2022.
 ### Q1 2022
+- Go public with this paper and the Discord. Gather interest and organize it.
+- Begin to work through legal complexities. 
+- Set up GitHub repositories, Discord, social media. 
+- Put together marketing and fundraising materials.
+- **Goal: Deploy the conditional fundraising web3 dapp prototype.**
 
 ### Q2 2022
+- Go live with first campaigns on the dapp. Build hype.
+- Use the DAO to fundraise for dapp campaigns. 
+- **Goal: 10 campaigns and $10 million**
 
 ### Q3 2022
+- Demonstrate an impact on the 2022 midterms. Record data.
+
+### Q4 2022
+- Regroup and reassess. What worked? What can improve? 
+- Look forward to 2024. Put a plan in place. 
