@@ -250,7 +250,7 @@ The following is a rough guide for how DAOPAC will unfold in 2022.
 ## Stage 0: Governance Formation (Nov '21 - Jan '22)
 
 ### Spec
-This is the thinking part. There's a lot to consider when dealing with political entities, crypto markets, and donors. In order to move fast, we need prevent mistakes. This document is the result of that thinking. 
+This is the thinking part. There's a lot to consider when dealing with political entities, crypto markets, and donors. In order to move fast, we need to prevent mistakes. This document is the result of that thinking. 
 
 Getting a spec (or white paper or litepaper) developed and vetted past discerning people is an important step in the journey. So far, so good. The spec will continue to live and morph as we figure more stuff out. The team will need to keep this document updated as much as possible or, better yet, convert it into a Gitbook documentation system.
 
