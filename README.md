@@ -14,7 +14,7 @@
 — Stephen Colbert
 > 
 
-This decentralized political action committee (dPAC) is our response to the dark money allowed to flood into American politics after the Supreme Court’s 2010 ruling in *Citizens United v. Federal Election Commission*.
+This decentralized political action committee is our response to the dark money allowed to flood into American politics after the Supreme Court’s 2010 ruling in *Citizens United v. Federal Election Commission*.
 
 Making small contributions to political campaigns and nonprofits has not prevented powerful lobbies from continuing to subvert the will of the people. It is time for us to join forces and do something about it. The purpose of this organization is to safely and securely pool funds to influence politicians and win their votes. 
 
